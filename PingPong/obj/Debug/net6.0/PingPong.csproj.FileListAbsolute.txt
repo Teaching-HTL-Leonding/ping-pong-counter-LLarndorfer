@@ -1,0 +1,15 @@
+C:\Users\lukas\Documents\HTL\Pro\PingPong\bin\Debug\net6.0\PingPong.exe
+C:\Users\lukas\Documents\HTL\Pro\PingPong\bin\Debug\net6.0\PingPong.deps.json
+C:\Users\lukas\Documents\HTL\Pro\PingPong\bin\Debug\net6.0\PingPong.runtimeconfig.json
+C:\Users\lukas\Documents\HTL\Pro\PingPong\bin\Debug\net6.0\PingPong.dll
+C:\Users\lukas\Documents\HTL\Pro\PingPong\bin\Debug\net6.0\ref\PingPong.dll
+C:\Users\lukas\Documents\HTL\Pro\PingPong\bin\Debug\net6.0\PingPong.pdb
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.csproj.AssemblyReference.cache
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.AssemblyInfoInputs.cache
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.AssemblyInfo.cs
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.dll
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\ref\PingPong.dll
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.pdb
+C:\Users\lukas\Documents\HTL\Pro\PingPong\obj\Debug\net6.0\PingPong.genruntimeconfig.cache
